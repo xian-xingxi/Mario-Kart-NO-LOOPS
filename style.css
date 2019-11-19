@@ -1,0 +1,99 @@
+body {
+    background: url('images/book\ background.jpg')fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 1.4px;
+}
+
+.all {
+    margin: auto;
+    background-color: rgba(219, 225, 211, 0.85);
+    width: 750px;
+    padding: 20px;
+    border: 5px solid grey;
+    padding-right: 50px;
+    padding-left: 50px;
+    border-radius: 50px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr {
+    width: 500px;
+    color: black;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+.pos {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 35px;
+    padding: 30px;
+}
+
+#banana,
+#greenshell,
+#star,
+#goldenmushroom,
+#bulletbill {
+    font-weight: bold;
+    font-size: 17.5px;
+}
+
+img {
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+}
+
+#mainPic {
+    width: 250px;
+    border: none;
+    height: 215px;
+    margin-top: -10px;
+    margin-bottom: 25px;
+}
+
+#btn {
+    color: blue;
+    background-color: rgb(189, 231, 252);
+    font-weight: bold;
+    font-size: 15px;
+    letter-spacing: 1.3px;
+    border: 1px solid;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#top {
+    background-color: #EAE6E4;
+    border-radius: 20px;
+    opacity: 0.99;
+    padding-bottom: 0;
+}
+
+#error1 {
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+#btp {
+    text-decoration: none;
+    color: purple;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
